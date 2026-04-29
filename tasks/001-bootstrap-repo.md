@@ -14,7 +14,7 @@ Create the clean Next.js SaaS starter foundation.
 - App Router folder structure.
 - Tailwind/shadcn setup.
 - `.env.example`.
-- Docker Postgres.
+- Postgres through Supabase and Drizzle.
 - Workspace check script.
 - Smoke test script.
 
